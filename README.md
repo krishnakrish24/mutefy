@@ -13,6 +13,7 @@ This application mutes spotify when it detects an ad playing and gives the user 
 5. Replace the copied values in the appropriate variables in the mutefy.py file.
 6. Make sure that you have all the dependencies installed in your system. For a list of dependencies, check the Dependencies section
 8. Save the file and run the file from the command line using the python command.
+
 `python mutefy.py`
 
 ## Dependencies
@@ -23,6 +24,7 @@ This application mutes spotify when it detects an ad playing and gives the user 
 - pygame
 
 If you do not have these dependencies installed, install them using the command line.
+
 `pip install tkinter,pygetwindow,spotipy,pycaw,pygame`
 
 ## GUI and Usage
