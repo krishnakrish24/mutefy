@@ -1,9 +1,9 @@
 # Mutefy v1.0
  Mute Spotify Ads on Desktop
- Created using Python with Spotify API
+ Created using Python with Spotify API,
  GUI - tkinter
 
-This application mutes spotify when it detects an ad playing and gives the user the option to play a random song that is available locally.
+This application mutes Spotify when it detects an ad playing and gives the user the option to play a random song that is available locally.
 
 ## Installation
 1. Login to Spotify Developer Console using https://developer.spotify.com/dashboard/
