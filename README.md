@@ -1,5 +1,5 @@
 # Mutefy v1.0
- Mute Spotify Ads on Desktop
+ Mute Spotify Ads on Desktop.
  Created using Python with Spotify API,
  GUI - tkinter
 
