@@ -11,7 +11,7 @@ This application mutes Spotify when it detects an ad playing and gives the user 
 3. Copy your client id and client secret once the app is created.
 4. Clone this repository and open the mutefy.py file.
 5. Replace the copied values in the appropriate variables in the mutefy.py file.
-6. Make sure that you have all the dependencies installed in your system. For a list of dependencies, check the [Dependencies](#dependencies) section
+6. Make sure that you have all the dependencies installed in your system. For the list of dependencies, check the [Dependencies](#dependencies) section
 8. Save the file and run the file from the command line using the python command:
 `python mutefy.py`
 
