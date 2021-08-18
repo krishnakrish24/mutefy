@@ -32,4 +32,4 @@ If you do not have these dependencies installed, install them using the command 
 - The Open Spotify button opens the Spotify application.
 - You can select the folder containing the music you want to play when Spotify is muted using the Browse button. Please ensure that the folder contains only mp3 files.
 - The START button starts the application. The status then changes from Stopped... to Running!
-- The current playing song name, its artist and the album are displayed below.
+- The current playing song name, its artist and the album are displayed at the bottom.
