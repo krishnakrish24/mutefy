@@ -5,7 +5,7 @@
 
 This application mutes Spotify when it detects an ad playing and gives the user the option to play a random song that is available locally.
 
-## Installation
+## Installation and Usage
 1. Login to Spotify Developer Console using https://developer.spotify.com/dashboard/
 2. Click 'Create an app' and key in the inputs as required.
 3. Copy your client id and client secret once the app is created.
@@ -27,7 +27,7 @@ If you do not have these dependencies installed, install them using the command 
 
 `pip install psutil, pygetwindow, pycaw, pygame, spotipy, tkinter`
 
-## GUI and Usage
+## GUI
 ![Mutefy v1.0 GUI](https://github.com/krishnakrish24/mutefy/blob/7cb732d80ea9078ee2667610bfa2cf653cc5b9b0/Mutefy%20v1_0.png)
 - The Open Spotify button opens the Spotify application.
 - You can select the folder containing the music you want to play when Spotify is muted using the Browse button. Please ensure that the folder contains only mp3 files.
