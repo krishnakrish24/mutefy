@@ -25,7 +25,7 @@ This application mutes Spotify when it detects an ad playing and gives the user 
 
 If you do not have these dependencies installed, install them using the command line.
 
-`pip install psutil, pygetwindow, pycaw, pygame, spotipy, tkinter`
+`pip install psutil pygetwindow pycaw pygame spotipy tkinter`
 
 ## GUI
 ![Mutefy v1.0 GUI](https://github.com/krishnakrish24/mutefy/blob/7cb732d80ea9078ee2667610bfa2cf653cc5b9b0/Mutefy%20v1_0.png)
